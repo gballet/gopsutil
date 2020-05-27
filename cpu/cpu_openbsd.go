@@ -13,7 +13,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/renaynay/gopsutil/internal/common"
 	"golang.org/x/sys/unix"
 )
 
